@@ -1,18 +1,15 @@
-## Hi there 👋
+# Hi, I'm Naman 👋
 
-<!--
-**ExotizZn/ExotizZn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Software Engineering Student**  
+Focusing on backend systems, full-stack web applications, and self-hosted infrastructure.
 
-Here are some ideas to get you started:
+- 📍 Based in: **Ansan, South Korea** (Exchange Semester at Hanyang University ERICA) · From **Toulon, France**.
+- 🛠️ Systems & tooling: **Linux / WSL 2**, **Docker**, **Automated CI/CD**, and homelab backups.
+- ⚡ Side interests: Micro FPV drones (Tinywhoop / BetaFPV), 4K videography, and systems programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-I'm Naman Nguyen !
+### 🌐 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-naman.fr-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://naman.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-nguyen)
